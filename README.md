@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morsprincipiumest
-- 👀 I’m into full-stack, Java and Flutter
+- 👀 I’m into ASP.NET Core, React.
 - 📫 How to reach me meteqhan@gmail.com
 
 <!---
